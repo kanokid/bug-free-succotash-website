@@ -8,3 +8,7 @@ body {
     background: rgb(141, 247, 141);
     color: darkgreen;
 }
+ul {
+  list-style-position: inside;
+  text-align: center;
+}
