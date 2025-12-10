@@ -12,3 +12,8 @@ ul {
   list-style-position: inside;
   text-align: center;
 }
+h4 {
+  display: list-item;
+  list-style-type: disc;
+  margin-left: 1.5em;
+}
