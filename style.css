@@ -4,7 +4,7 @@ img {
 }
 body {
     text-align: center;
-    font-family: 'JetBrains Mono','Comic Sans MS', Candara, Arial;
+    font-family: 'Monaspace Krypton','JetBrains Mono','Comic Sans MS', Candara, Arial;
     background: rgb(141, 247, 141);
     color: darkgreen;
 }
@@ -16,4 +16,9 @@ h4 {
   display: list-item;
   list-style-type: disc;
   margin-left: 1.5em;
+}
+@font-face {
+  font-family: "Monaspace Krypton";
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/monaspace-krypton@latest/latin-400-normal.woff2)
+    format("woff2");
 }
